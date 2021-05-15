@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm [Yixiang Zhao（赵奕翔 in Chinese）](https://seriouszyx.github.io/homepage/)! 👋 
 
-<!--
-**seriouszyx/seriouszyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master student at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), advised by Dr. [Zhou Zhou](http://people.ucas.edu.cn/~zhouzhou). Also I am a member of [MESALAB(Massiv and Effective Stream Analysis Labratory)](http://mesalab.cn/), doing research about SDN/NFV.
 
-Here are some ideas to get you started:
+🔭 Currently, I mainly focus on:
+- SDN/NFV
+- Learning at [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⚡ Something else about me:
+- I love to share what I've learned and thought in [Github](https://github.com/seriouszyx) and [Chinese blog](https://seriouszyx.github.io/)
+- I used to be a back-end developer
+
+📫 Contact me by:
+- Email: seriouszyx [at] gmail.com (Please change [at] to @)
+
+---
+
+![Yixiang's github stats](https://github-readme-stats.vercel.app/api?username=seriouszyx&theme=material-palenight&count_private=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriouszyx&theme=material-palenight&hide=Jupyter&layout=compact)
+
+<!-- 
+参考：
+  https://github.com/bighuang624
+  https://github.com/yzhao062
 -->
+
+
