@@ -7,7 +7,7 @@ I am a Master student at [Institute of Information Engineering](http://www.iie.a
 - Learning at [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)
 
 ⚡ Something else about me:
-- I love to share what I've learned and thought in [Github](https://github.com/seriouszyx) and [Chinese blog](https://seriouszyx.github.io/)
+- I love to share what I've learned and thought in [Github](https://github.com/seriouszyx) and [Chinese blog](https://seriouszyx.com/)
 - I used to be a back-end developer
 
 📫 Contact me by:
