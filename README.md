@@ -17,7 +17,6 @@ I am a Master student at [Institute of Information Engineering](http://www.iie.a
 ---
 
 ![Yixiang's github stats](https://github-readme-stats.vercel.app/api?username=seriouszyx&theme=material-palenight&count_private=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriouszyx&theme=material-palenight&hide=Jupyter&layout=compact)
 
 <!-- 
 参考：
