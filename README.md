@@ -3,7 +3,7 @@
 I am a Master student at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), advised by Dr. [Zhou Zhou](http://people.ucas.edu.cn/~zhouzhou). Also I am a member of [MESALAB(Massiv and Effective Stream Analysis Labratory)](http://mesalab.cn/), doing research about computer network.
 
 🔭 Currently, I mainly focus on:
-- Casbin
+- Casbin Talent 2022
 - Web scanner detection
 - Learning at [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)
 
