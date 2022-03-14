@@ -14,6 +14,8 @@ I am a Master student at [Institute of Information Engineering](http://www.iie.a
 📫 Contact me by:
 - Email: seriouszyx [at] gmail.com (Please change [at] to @)
 
+> Avatar is my lover, Lotus.
+
 ---
 
 ![Yixiang's github stats](https://github-readme-stats.vercel.app/api?username=seriouszyx&theme=material-palenight&count_private=true&hide=contribs)
