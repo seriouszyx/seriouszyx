@@ -1,6 +1,8 @@
 # The URL the site will be built for
 base_url = "https://weekly.seriouszyx.com"
 
+title = "seriouszyx weekly"
+
 theme = "terminimal"
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -41,3 +43,6 @@ menu_items = [
     # set newtab to true to make the link open in new tab
     {name = "github", url = "https://github.com/seriouszyx", newtab = true},
 ]
+
+favicon = "/favicon.ico"
+favicon_mimetype = "image/x-icon"
