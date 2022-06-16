@@ -18,7 +18,7 @@ I am a second-year master student at [Institute of Information Engineering](http
 #### ⭐ Check out my recent stars
 
 - [inetrg/spoki](https://github.com/inetrg/spoki) - Artifacts of the USENIX Security 2022 paper &#34;Spoki: Unveiling a New Wave of Scanners through a Reactive Network Telescope&#34; (1 week ago)
-- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - ShenYu is High-Performance Java API Gateway. (2 months ago)
+- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is dynamic full lifecycle JAVA API gateway with easy scalability and hot-pluggble features. (2 months ago)
 - [apache/incubator-inlong](https://github.com/apache/incubator-inlong) - Apache InLong - a one-stop integration framework for massive data (2 months ago)
 - [alibaba/ilogtail](https://github.com/alibaba/ilogtail) - The Lightweight Data Collector of SLS in Alibaba Cloud (3 months ago)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (3 months ago)
