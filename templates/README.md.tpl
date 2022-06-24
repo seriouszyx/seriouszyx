@@ -7,35 +7,39 @@ I am a second-year master student at [Institute of Information Engineering](http
 - Web scanner detection
 - [C4-Network Technology Challenge 2022](http://net.c4best.cn/)
 
-#### 🌱 Check out my recent projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+<details>
+  <summary>🌱 Check out my recent projects</summary>
+  {{range recentRepos 5}}
+  - [{{.Name}}]({{.URL}}) - {{.Description}}
+  {{- end}}
+</details>
 
-#### ⭐ Check out my recent stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
+<details>
+  <summary>⭐ Check out my recent stars</summary>
+  {{range recentStars 5}}
+  - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+  {{- end}}
+</details>
 
-#### 👯 Check out my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
+<details>
+  <summary>👯 Check out my recent followers</summary>
+  {{range followers 5}}
+  - [{{.Login}}]({{.URL}})
+  {{- end}}
+</details>
 
-#### 🔨 Check out my recent pull requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+<details>
+  <summary>🔨 Check out my recent pull requests</summary>
+  {{range recentPullRequests 5}}
+  - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+  {{- end}}
+</details>
 
 #### 📫 Contact me by:
 - Email: seriouszyx [at] gmail.com (Please change [at] to @)
 - Blog: https://blog.seriouszyx.com/
 
 > Avatar is my lover, Lotus.
-
----
-
-![Yixiang's github stats](https://github-readme-stats.vercel.app/api?username=seriouszyx&theme=material-palenight&count_private=true&hide=contribs)
 
 <!-- 
 参考：
