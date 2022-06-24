@@ -4,7 +4,6 @@ I am a second-year master student at [Institute of Information Engineering](http
 
 <details open>
   <summary><strong>🔭 Check out what I'm currently working on</strong></summary>
-  <br>
   - [GSoC 2022](https://summerofcode.withgoogle.com/programs/2022/projects/ev4TPeRU) ([OA](https://gsoc.casbin.org/))
   - Web scanner detection
   - [C4-Network Technology Challenge 2022](http://net.c4best.cn/)
@@ -12,7 +11,6 @@ I am a second-year master student at [Institute of Information Engineering](http
 
 <details>
   <summary><strong>🌱 Check out my recent projects</strong></summary>
-  <br>
   
   - [seriouszyx/hexo-theme-star](https://github.com/seriouszyx/hexo-theme-star) - A clean and minimalist theme for Hexo
   - [seriouszyx/maven-release-example](https://github.com/seriouszyx/maven-release-example) - 
@@ -21,7 +19,7 @@ I am a second-year master student at [Institute of Information Engineering](http
   - [seriouszyx/Load-Balance-Papers](https://github.com/seriouszyx/Load-Balance-Papers) - List of awesome papers about load balancing in mobile ad hoc networks
 </details>
 
-<details open>
+<details>
   <summary><strong>⭐ Check out my recent stars</strong></summary>
 
   
