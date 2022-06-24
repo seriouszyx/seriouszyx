@@ -2,13 +2,17 @@
 
 I am a second-year master student at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), advised by Dr. [Zhou Zhou](http://people.ucas.edu.cn/~zhouzhou). Also I am a member of [MESALAB(Massiv and Effective Stream Analysis Labratory)](http://mesalab.cn/), doing research about Cyberspace Anti-Surveying and Mapping.
 
-#### 🔭 Check out what I'm currently working on
-- [GSoC 2022](https://summerofcode.withgoogle.com/programs/2022/projects/ev4TPeRU) - ([OA](https://gsoc.casbin.org/))
-- Web scanner detection
-- [C4-Network Technology Challenge 2022](http://net.c4best.cn/)
+<details open>
+  <summary><strong>🔭 Check out what I'm currently working on</strong></summary>
+  <br>
+  - [GSoC 2022](https://summerofcode.withgoogle.com/programs/2022/projects/ev4TPeRU) ([OA](https://gsoc.casbin.org/))
+  - Web scanner detection
+  - [C4-Network Technology Challenge 2022](http://net.c4best.cn/)
+</details>
 
 <details>
-  <summary>🌱 Check out my recent projects</summary>
+  <summary><strong>🌱 Check out my recent projects</strong></summary>
+  <br>
   
   - [seriouszyx/hexo-theme-star](https://github.com/seriouszyx/hexo-theme-star) - A clean and minimalist theme for Hexo
   - [seriouszyx/maven-release-example](https://github.com/seriouszyx/maven-release-example) - 
@@ -17,8 +21,9 @@ I am a second-year master student at [Institute of Information Engineering](http
   - [seriouszyx/Load-Balance-Papers](https://github.com/seriouszyx/Load-Balance-Papers) - List of awesome papers about load balancing in mobile ad hoc networks
 </details>
 
-<details>
-  <summary>⭐ Check out my recent stars</summary>
+<details open>
+  <summary><strong>⭐ Check out my recent stars</strong></summary>
+
   
   - [inetrg/spoki](https://github.com/inetrg/spoki) - Artifacts of the USENIX Security 2022 paper &#34;Spoki: Unveiling a New Wave of Scanners through a Reactive Network Telescope&#34; (2 weeks ago)
   - [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (2 months ago)
@@ -28,7 +33,7 @@ I am a second-year master student at [Institute of Information Engineering](http
 </details>
 
 <details>
-  <summary>👯 Check out my recent followers</summary>
+  <summary><strong>👯 Check out my recent followers</strong></summary>
   
   - [EasonXeu](https://github.com/EasonXeu)
   - [Madhan-Kumar-N](https://github.com/Madhan-Kumar-N)
@@ -38,7 +43,7 @@ I am a second-year master student at [Institute of Information Engineering](http
 </details>
 
 <details>
-  <summary>🔨 Check out my recent pull requests</summary>
+  <summary><strong>🔨 Check out my recent pull requests</strong></summary>
   
   - [Fix the version of libtrace in setup.sh](https://github.com/inetrg/spoki/pull/3) on [inetrg/spoki](https://github.com/inetrg/spoki) (2 days ago)
   - [fix: encryption without salt](https://github.com/casdoor/casdoor/pull/821) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
@@ -46,10 +51,6 @@ I am a second-year master student at [Institute of Information Engineering](http
   - [fix: disable jsx-a11y/anchor-is-valid](https://github.com/casdoor/casdoor/pull/800) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
   - [test: add unit tests for DefaultRoleManager](https://github.com/casbin/jcasbin/pull/281) on [casbin/jcasbin](https://github.com/casbin/jcasbin) (1 week ago)
 </details>
-
-#### 📫 Contact me by:
-- Email: seriouszyx [at] gmail.com (Please change [at] to @)
-- Blog: https://blog.seriouszyx.com/
 
 > Avatar is my lover, Lotus.
 
