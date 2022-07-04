@@ -34,11 +34,11 @@ I am a second-year master student at [Institute of Information Engineering](http
 <details>
   <summary><strong>👯 Check out my recent followers</strong></summary>
   
+  - [VaibhavWadibhasme](https://github.com/VaibhavWadibhasme)
   - [bi11ygates](https://github.com/bi11ygates)
   - [waltcow](https://github.com/waltcow)
   - [EasonXeu](https://github.com/EasonXeu)
   - [Madhan-Kumar-N](https://github.com/Madhan-Kumar-N)
-  - [Kayla1026](https://github.com/Kayla1026)
 </details>
 
 <details>
