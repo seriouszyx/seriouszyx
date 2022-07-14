@@ -44,11 +44,11 @@ I am a second-year master student at [Institute of Information Engineering](http
 <details>
   <summary><strong>🔨 Check out my recent pull requests</strong></summary>
   
+  - [feat: add a docs page for Permissions](https://github.com/casdoor/casdoor-website/pull/245) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (today)
   - [feat: store signin url when getting the signup url](https://github.com/casdoor/casdoor-js-sdk/pull/30) on [casdoor/casdoor-js-sdk](https://github.com/casdoor/casdoor-js-sdk) (4 days ago)
   - [fix: crowdin kept deleting translations](https://github.com/casdoor/casdoor/pull/843) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
   - [feat: update saml idp docs for keycloak](https://github.com/casdoor/casdoor-website/pull/231) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 weeks ago)
   - [feat: support casdoor as saml idp to connect keycloak](https://github.com/casdoor/casdoor/pull/832) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
-  - [Fix the version of libtrace in setup.sh](https://github.com/inetrg/spoki/pull/3) on [inetrg/spoki](https://github.com/inetrg/spoki) (3 weeks ago)
 </details>
 
 > Avatar is my lover, Lotus.
