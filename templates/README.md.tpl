@@ -13,7 +13,7 @@ I am a second-year master student at [Institute of Information Engineering](http
 {{- end}}
 
 #### 📜 Check out my recent blog posts
-{{range rss "https://blog.seriouszyx.com/atom.xml" 5}}
+{{range rss "https://blog.seriouszyx.com/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
