@@ -13,7 +13,7 @@ I am a second-year master student at [Institute of Information Engineering](http
 {{- end}}
 
 #### 📜 Check out my recent blog posts
-{{range rss "https://yinxiu.in/feed.xml" 5}}
+{{range rss "https://www.yinxiu.in/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
