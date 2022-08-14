@@ -1,9 +1,9 @@
-### Hi there, I'm [Yixiang Zhao（赵奕翔 in Chinese）](https://seriouszyx.com)! 👋 
+### Hi there, I'm [Yixiang Zhao（赵奕翔 in Chinese）](https://yinxiu.in)! 👋 
 
 I am a second-year master student at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), advised by Dr. [Zhou Zhou](http://people.ucas.edu.cn/~zhouzhou). Also I am a member of [MESALAB(Massiv and Effective Stream Analysis Labratory)](http://mesalab.cn/), doing research about Cyberspace Anti-Surveying and Mapping.
 
 #### 🔭 Check out what I'm currently working on
-- [GSoC 2022](https://summerofcode.withgoogle.com/programs/2022/projects/ev4TPeRU) ([OA](https://gsoc.casbin.org/))
+- [GSoC 2022](https://summerofcode.withgoogle.com/programs/2022/projects/ev4TPeRU)
 - Web scanner detection
 - [C4-Network Technology Challenge 2022](http://net.c4best.cn/)
 
@@ -13,7 +13,7 @@ I am a second-year master student at [Institute of Information Engineering](http
 {{- end}}
 
 #### 📜 Check out my recent blog posts
-{{range rss "https://blog.seriouszyx.com/feed.xml" 5}}
+{{range rss "https://yinxiu.in/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 

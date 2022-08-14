@@ -1,7 +1,7 @@
 # The URL the site will be built for
-base_url = "https://weekly.seriouszyx.com"
+base_url = "https://weekly.yinxiu.in"
 
-title = "seriouszyx weekly"
+title = "Yinxiu's Weekly"
 
 theme = "terminimal"
 
@@ -25,7 +25,7 @@ highlight_theme = "boron"
 [extra]
 # Put all your custom variables here
 
-logo_text = "seriouszyx weekly"
+logo_text = "Yinxiu's weekly"
 
 use_full_hack_font = true
 
@@ -42,6 +42,7 @@ menu_items = [
 
     # set newtab to true to make the link open in new tab
     {name = "github", url = "https://github.com/seriouszyx", newtab = true},
+    {name = "blog", url="https://yinxiu.in", newtab = true},
 ]
 
 favicon = "/favicon.ico"
