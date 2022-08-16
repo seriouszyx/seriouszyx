@@ -9,11 +9,11 @@ I am a second-year master student at [Institute of Information Engineering](http
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support RBAC model in permission](https://github.com/casdoor/casdoor/pull/1006) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: support RBAC with domains model and add adapter to specify the table name for policy storage](https://github.com/casdoor/casdoor/pull/1020) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: support RBAC model in permission](https://github.com/casdoor/casdoor/pull/1006) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
 - [feat: expose some casbin APIs](https://github.com/casdoor/casdoor/pull/955) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [fix: skip the duplicated users when sync users](https://github.com/casdoor/casdoor/pull/928) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
-- [feat: add signin and signup URLs in docs](https://github.com/casdoor/casdoor-website/pull/255) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 weeks ago)
-- [feat: support local login for non-built-in users](https://github.com/casdoor/casdoor/pull/911) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 weeks ago)
+- [feat: add signin and signup URLs in docs](https://github.com/casdoor/casdoor-website/pull/255) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
