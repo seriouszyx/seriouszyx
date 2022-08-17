@@ -9,11 +9,11 @@ I am a second-year master student at [Institute of Information Engineering](http
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support RBAC with domains model and add adapter to specify the table name for policy storage](https://github.com/casdoor/casdoor/pull/1020) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
-- [feat: support RBAC model in permission](https://github.com/casdoor/casdoor/pull/1006) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
+- [feat: add getRoleManager() and benchmark the role manager](https://github.com/casbin/jcasbin/pull/287) on [casbin/jcasbin](https://github.com/casbin/jcasbin) (1 day ago)
+- [[ISSUE #1078] Extract constants of ExporterConfiguration](https://github.com/apache/incubator-eventmesh/pull/1164) on [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) (1 day ago)
+- [feat: support RBAC with domains model and add adapter to specify the table name for policy storage](https://github.com/casdoor/casdoor/pull/1020) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
+- [feat: support RBAC model in permission](https://github.com/casdoor/casdoor/pull/1006) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (6 days ago)
 - [feat: expose some casbin APIs](https://github.com/casdoor/casdoor/pull/955) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [fix: skip the duplicated users when sync users](https://github.com/casdoor/casdoor/pull/928) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
-- [feat: add signin and signup URLs in docs](https://github.com/casdoor/casdoor-website/pull/255) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
