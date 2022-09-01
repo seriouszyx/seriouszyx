@@ -9,11 +9,11 @@ I am a second-year master student at [Institute of Information Engineering](http
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: migrate permission data](https://github.com/casdoor/casdoor/pull/1083) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
 - [feat: add casbin enforcement page](https://github.com/casdoor/casdoor-website/pull/309) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 week ago)
 - [feat: check model grammar when saving and provide a ACL model as init data](https://github.com/casdoor/casdoor/pull/1062) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [feat: failed to initialize the permission](https://github.com/casdoor/casdoor/pull/1029) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
+- [feat: failed to initialize the permission](https://github.com/casdoor/casdoor/pull/1029) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
 - [fix: third-party user may login to the built-in organization](https://github.com/casdoor/casdoor/pull/1024) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
-- [feat: add getRoleManager() and benchmark the role manager](https://github.com/casbin/jcasbin/pull/287) on [casbin/jcasbin](https://github.com/casbin/jcasbin) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
