@@ -4,6 +4,8 @@ I am a second-year master student at [Institute of Information Engineering](http
 
 #### 🔭 Check out what I'm currently working on
 - Web scanner detection (Paper Plan)
+- [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2022/)
+  - [Labs Notes](https://ts4sdpvy1p.feishu.cn/wiki/wikcnQMxprDrkEO8A5Bu7GpW0xb)
 
 #### 🔨 Check out my recent pull requests
 {{range recentPullRequests 5}}
@@ -15,7 +17,7 @@ I am a second-year master student at [Institute of Information Engineering](http
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 🗃️ Archives
+#### 🗃️ Check out my archives
 
 - [GSoC 2022](https://summerofcode.withgoogle.com/programs/2022/projects/ev4TPeRU) 
   - [Proposal](https://docs.google.com/document/d/1SZLReZ7T-OwitPYOxYSbNU5zidfieYed9hOaZ6xOi1A/edit?usp=sharing)
