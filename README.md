@@ -12,8 +12,8 @@ I am a second-year master student at [Institute of Information Engineering](http
 - [fix: missing providers and org in GetDefaultApplication](https://github.com/casdoor/casdoor/pull/1123) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: add defaultApplication for Orgnization](https://github.com/casdoor/casdoor/pull/1111) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
 - [feat: use Casdoor to manage Casbin DB table ](https://github.com/casdoor/casdoor/pull/1100) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
-- [feat: migrate permission data](https://github.com/casdoor/casdoor/pull/1083) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
-- [feat: add casbin enforcement page](https://github.com/casdoor/casdoor-website/pull/309) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 weeks ago)
+- [feat: migrate permission data](https://github.com/casdoor/casdoor/pull/1083) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (3 weeks ago)
+- [feat: add casbin enforcement page](https://github.com/casdoor/casdoor-website/pull/309) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
