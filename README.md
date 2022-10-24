@@ -4,7 +4,7 @@ I am a second-year master student at [Institute of Information Engineering](http
 
 #### 🔭 Check out what I'm currently working on
 
-- SDE Intern @joyycom
+- Java Developer Intern at YY Inc.
 - Web scanner detection (Paper Plan)
 
 #### 🔨 Check out my recent pull requests
