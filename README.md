@@ -4,9 +4,8 @@ I am a second-year master student at [Institute of Information Engineering](http
 
 #### 🔭 Check out what I'm currently working on
 
+- SDE Intern @joyycom
 - Web scanner detection (Paper Plan)
-- [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2022/)
-  - [Labs Notes](https://ts4sdpvy1p.feishu.cn/wiki/wikcnQMxprDrkEO8A5Bu7GpW0xb)
 
 #### 🔨 Check out my recent pull requests
 
