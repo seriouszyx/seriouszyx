@@ -7,7 +7,7 @@
 #### 🔭 Check out what I'm currently working on
 
 - Java Developer Intern at [SHOPLINE](https://www.shopline.com/), YY Inc.
-- Web scanner detection (Paper submitted)
+- Web scanner detection (Paper accepted by CSCWD 2023)
 
 #### 🔨 Check out my recent pull requests
 
