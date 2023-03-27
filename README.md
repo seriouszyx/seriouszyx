@@ -13,11 +13,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add yaml tags for model](https://github.com/apache/dubbo-admin/pull/1056) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (2 days ago)
-- [feat: refactor the condition route feature with go](https://github.com/apache/dubbo-admin/pull/1052) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (4 days ago)
+- [test: add unit tests for route service](https://github.com/apache/dubbo-admin/pull/1058) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (1 day ago)
+- [feat: add yaml tags for model](https://github.com/apache/dubbo-admin/pull/1056) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (3 days ago)
+- [feat: refactor the condition route feature with go](https://github.com/apache/dubbo-admin/pull/1052) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (5 days ago)
 - [feat: refactor the tag route feature with go](https://github.com/apache/dubbo-admin/pull/1030) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (2 weeks ago)
 - [[ISSUE #998] feat: add governance_config to adapt configuration center](https://github.com/apache/dubbo-admin/pull/1007) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (3 weeks ago)
-- [feat: implement RemoveConfig API for nacos and zookeeper](https://github.com/apache/dubbo-go/pull/2234) on [apache/dubbo-go](https://github.com/apache/dubbo-go) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
