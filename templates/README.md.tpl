@@ -8,6 +8,7 @@
 #### 🔭 Check out what I'm currently working on
 
 - Software Developer Intern at [RisingWave Labs](https://www.risingwave-labs.com/).
+- GSoC '23 at [Apache EventMesh](https://summerofcode.withgoogle.com/programs/2023/projects/8rkqnqNF)
 - Web scanner detection
   - A paper has been accepted by CSCWD 2023 (CCF-C) !
 
