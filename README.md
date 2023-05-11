@@ -17,7 +17,7 @@
 - [test: add unit tests for route service](https://github.com/apache/dubbo-admin/pull/1058) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (1 month ago)
 - [feat: add yaml tags for model](https://github.com/apache/dubbo-admin/pull/1056) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (1 month ago)
 - [feat: refactor the condition route feature with go](https://github.com/apache/dubbo-admin/pull/1052) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (1 month ago)
-- [feat: refactor the tag route feature with go](https://github.com/apache/dubbo-admin/pull/1030) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (1 month ago)
+- [feat: refactor the tag route feature with go](https://github.com/apache/dubbo-admin/pull/1030) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (2 months ago)
 - [[ISSUE #998] feat: add governance_config to adapt configuration center](https://github.com/apache/dubbo-admin/pull/1007) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (2 months ago)
 
 #### 📜 Check out my recent blog posts
