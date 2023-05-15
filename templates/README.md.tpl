@@ -1,17 +1,24 @@
 ### Hi there, I'm [Yixiang Zhao](https://yinxiu.in)! 👋 
 
-- Master student at [IIE](http://www.iie.ac.cn/), [CAS](https://www.cas.cn/)
-- Apache EventMesh committer
-- Ex-intern at [SHOPLINE](https://www.shopline.com/), YY Inc.
-- GSoC '22 @casbin
+#### 🔭 Open for 2024 full-time position
 
-#### 🔭 Check out what I'm currently working on
+- Education
+  - Master student at [IIE](http://www.iie.ac.cn/), [CAS](https://www.cas.cn/)
+- Intership
+  - SDE intern at RisingWave Labs](https://www.risingwave.com/), building [Risingwave Cloud](https://www.risingwave.com/products/RisingWaveCloud/)
+  - Ex-intern at [YY](https://joyy.com/zh-cn/introduction.html), building SaaS billing service of [shopline](https://shoplineapp.cn/pricing/)
+- Open Source
+  - Apache EventMesh committer
+  - GSoC '23 @apache eventmesh, GSoC '22 @casbin
+- Research
+  - Cyberspace security: A paper has been accepted by CSCWD '23 (CCF-C) 
 
-- Software Developer Intern at [RisingWave Labs](https://www.risingwave-labs.com/).
-- GSoC '23 at [Apache EventMesh](https://summerofcode.withgoogle.com/programs/2023/projects/8rkqnqNF)
-- Web scanner detection
-  - A paper has been accepted by CSCWD 2023 (CCF-C) !
+Feel free to contact me :)
 
+- Email: zhaoyixiang [at] apache.org
+- WeChat: `echo MTUxMjQxMDg3MTEK | base64 -d`
+
+<!-- 
 #### 🔨 Check out my recent pull requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
@@ -21,7 +28,7 @@
 {{range rss "https://www.yinxiu.in/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
-
+-->
 
 <!-- 
 参考：
