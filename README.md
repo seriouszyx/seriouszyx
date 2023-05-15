@@ -1,11 +1,11 @@
-### Hi there, I'm [Yixiang Zhao](https://yinxiu.in)! 👋 
+### Hi there, I'm Yixiang Zhao! 👋 
 
 #### 🔭 Open for 2024 full-time position
 
 - Education
   - Master student at [IIE](http://www.iie.ac.cn/), [CAS](https://www.cas.cn/)
 - Intership
-  - SDE intern at [RisingWave Labs](https://www.risingwave.com/), building [Risingwave Cloud](https://www.risingwave.com/products/RisingWaveCloud/)
+  - SDE intern at [RisingWave Labs](https://www.risingwave.com/), building [RisingWave Cloud](https://www.risingwave.com/products/RisingWaveCloud/)
   - Ex-intern at [YY](https://joyy.com/zh-cn/introduction.html), building SaaS billing service of [ShopLine](https://shoplineapp.cn/pricing/)
 - Open Source
   - Apache EventMesh committer
