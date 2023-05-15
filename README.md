@@ -1,32 +1,23 @@
 ### Hi there, I'm [Yixiang Zhao](https://yinxiu.in)! 👋 
 
-- Master student at [IIE](http://www.iie.ac.cn/), [CAS](https://www.cas.cn/)
-- Apache EventMesh committer
-- Ex-intern at [SHOPLINE](https://www.shopline.com/), YY Inc.
-- GSoC '22 @casbin
+#### 🔭 Open for 2024 full-time position
 
-#### 🔭 Check out what I'm currently working on
+- Education
+  - Master student at [IIE](http://www.iie.ac.cn/), [CAS](https://www.cas.cn/)
+- Intership
+  - SDE intern at RisingWave Labs](https://www.risingwave.com/), building [Risingwave Cloud](https://www.risingwave.com/products/RisingWaveCloud/)
+  - Ex-intern at [YY](https://joyy.com/zh-cn/introduction.html), building SaaS billing service of [shopline](https://shoplineapp.cn/pricing/)
+- Open Source
+  - Apache EventMesh committer
+  - GSoC '23 @apache eventmesh, GSoC '22 @casbin
+- Research
+  - Cyberspace security: A paper has been accepted by CSCWD '23 (CCF-C) 
 
-- Software Developer Intern at [RisingWave Labs](https://www.risingwave-labs.com/).
-- GSoC '23 at [Apache EventMesh](https://summerofcode.withgoogle.com/programs/2023/projects/8rkqnqNF)
-- Web scanner detection
-  - A paper has been accepted by CSCWD 2023 (CCF-C) !
+Feel free to contact me :)
 
-#### 🔨 Check out my recent pull requests
+- Email: zhaoyixiang [at] apache.org
+- WeChat: `echo MTUxMjQxMDg3MTEK | base64 -d`
 
-- [test: add unit tests for route service](https://github.com/apache/dubbo-admin/pull/1058) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (1 month ago)
-- [feat: add yaml tags for model](https://github.com/apache/dubbo-admin/pull/1056) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (1 month ago)
-- [feat: refactor the condition route feature with go](https://github.com/apache/dubbo-admin/pull/1052) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (1 month ago)
-- [feat: refactor the tag route feature with go](https://github.com/apache/dubbo-admin/pull/1030) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (2 months ago)
-- [[ISSUE #998] feat: add governance_config to adapt configuration center](https://github.com/apache/dubbo-admin/pull/1007) on [apache/dubbo-admin](https://github.com/apache/dubbo-admin) (2 months ago)
-
-#### 📜 Check out my recent blog posts
-
-- [🤡【年终总结】列车要奔向何方](https://yinxiu.in/2023/review-2022.html) (3 months ago)
-- [📘【论文阅读】通过响应式网络望远镜揭开扫描器的新面纱](https://yinxiu.in/2022/paper-share-spoki.html) (10 months ago)
-- [📘【论文阅读】解释和改进安全应用中基于深度学习的异常检测](https://yinxiu.in/2022/paper-share-deepaid.html) (1 year ago)
-- [🪜【CI/CD】使用 maven-semantic-release 自动化发版](https://yinxiu.in/2021/maven-semantic-release.html) (2 years ago)
-- [🪜【CI/CD】如何发布 Java 包到 Maven 中央仓库](https://yinxiu.in/2021/publish-to-maven.html) (2 years ago)
 
 
 
