@@ -5,8 +5,8 @@
 - Education
   - Master student at [IIE](http://www.iie.ac.cn/), [CAS](https://www.cas.cn/)
 - Intership
-  - SDE intern at RisingWave Labs](https://www.risingwave.com/), building [Risingwave Cloud](https://www.risingwave.com/products/RisingWaveCloud/)
-  - Ex-intern at [YY](https://joyy.com/zh-cn/introduction.html), building SaaS billing service of [shopline](https://shoplineapp.cn/pricing/)
+  - SDE intern at [RisingWave Labs](https://www.risingwave.com/), building [Risingwave Cloud](https://www.risingwave.com/products/RisingWaveCloud/)
+  - Ex-intern at [YY](https://joyy.com/zh-cn/introduction.html), building SaaS billing service of [ShopLine](https://shoplineapp.cn/pricing/)
 - Open Source
   - Apache EventMesh committer
   - GSoC '23 @apache eventmesh, GSoC '22 @casbin
